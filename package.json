@@ -4,7 +4,7 @@
     "express": "^4.17.1",
     "express-fileupload": "^1.1.7-alpha.3",
     "lodash": "^4.17.15",
-    "moment": "^2.27.0",
+    "moment": "^2.29.4",
     "path": "^0.12.7",
     "request": "^2.88.2",
     "winston": "^2.4.4",
